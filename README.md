@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @laundrevity
 - 
-- 👀 I’m interested in Python, C++, math, markets
+- 👀 I’m interested in Rust, Python, C++, math, markets
 
 - 📫 How to reach me ...
 - conor@mahany.io
