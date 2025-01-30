@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @laundrevity
 
-- 👀 I’m interested in Rust, Python, C++, math, markets
-
+- 👀 I’m interested in Python, Lisp, C++, JavaScript, Rust
+- basically just how to make useful websites in our money-based world
 - 📫 How to reach me ...
 - conor.mahany@gmail.com
 
